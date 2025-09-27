@@ -19,8 +19,7 @@ If you find this repository useful, please cite the following paper:
 ```
 @inproceedings{xie-lukasiewicz-2025-investigating,
     title = "Investigating Multi-layer Representations for Dense Passage Retrieval",
-    author = "Xie, Zhongbin  and
-      Lukasiewicz, Thomas",
+    author = "Xie, Zhongbin  and Lukasiewicz, Thomas",
     booktitle = "Findings of EMNLP 2025",
     month = nov,
     year = "2025",
