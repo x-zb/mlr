@@ -1,4 +1,4 @@
-# Investigating Multi-layer Representations for Dense Passage Retrieval
+# Multi-layer Representations for Dense Passage Retrieval
 
 ## Requirements
 
